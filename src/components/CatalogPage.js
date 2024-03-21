@@ -9,7 +9,7 @@ import { ReactComponent as FilterIcon } from "../img/filter_icon.svg";
 import { HandySvg } from "handy-svg";
 import drop_down_arrow from "../img/drop-down_arrow.svg";
 
-import products from "./productsData"; // Импорт массива продуктов
+import products from "./productsData"; // Импорт массива продуктов 
 
 // Функция для реализации пагинации карточек товаров (как было задумано в макете)
 function pagination(array, pageSize, pageNumber) {
